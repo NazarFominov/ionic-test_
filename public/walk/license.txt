@@ -1,0 +1,11 @@
+Model Information:
+* title:	Animation Final Done
+* source:	https://sketchfab.com/3d-models/animation-final-done-f748102512604e8ea07750aa5c715960
+* author:	epicnova25 (https://sketchfab.com/epicnova25)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Animation Final Done" (https://sketchfab.com/3d-models/animation-final-done-f748102512604e8ea07750aa5c715960) by epicnova25 (https://sketchfab.com/epicnova25) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)

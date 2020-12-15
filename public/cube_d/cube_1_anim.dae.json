@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "version": 4.4,
+    "type": "Object",
+    "generator": "Object3D.toJSON"
+  },
+  "object": {
+    "uuid": "6BEB43A7-3CBF-4864-A481-1F8CC1712C84",
+    "type": "Group",
+    "matrix": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "children": [
+      {
+        "uuid": "9120B7EA-E4D0-46E2-9268-EA804BDD5219",
+        "type": "Object3D",
+        "name": "Cube",
+        "matrix": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  "images": []
+}
